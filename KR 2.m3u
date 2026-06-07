@@ -4,105 +4,354 @@ https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIj
 #EXTINF:-1 group-title="韩国",KBS2
 https://2tv.gscdn.kbs.co.kr/2tv_1.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8ydHYuZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODA5MTk0MzB9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=nBWBv2TEAvvypQP-~hIqFtN3AARUBVMVP1cJPCOwdguIQQWCOOHHRDZ9auV9qMKDK2BeFs6~6S-PGZiwsouGfwv0tgUlIqskjiWjRmmpYyjtDJ0Z0lZEkN9fr2iW6ig3C938MU1a139Dv~01U4CbDdCGSZVfacNPbq2wyAtYKLkBGud6KDz3YhOa2TNhmf0Q~TQ8R5F4SjK-n9j9hh86tpDofxz55tZTim3Jr1DeM9KjIVfojN-oa2BO73l~G8SJWUiFSgEaj-Mi5Kbul039Sx0QLfnsxxXEX22sqPeomy3MialCCmdlb22zvttIoera1XpAJKRJtnDTmTS6ivJ4SA__
 
-#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="联通网络专用",CCTV-1
-http://bjyq-vnc-dns.mfsz.com.cn:8888/rtp/239.3.1.129:8008
-#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="联通网络专用",CCTV-2
-http://bjyq-vnc-dns.mfsz.com.cn:8888/rtp/239.3.1.60:8084
-#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="联通网络专用",CCTV-3
-http://bjyq-vnc-dns.mfsz.com.cn:8888/rtp/239.3.1.172:8001
-#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="联通网络专用",CCTV-4
-http://bjyq-vnc-dns.mfsz.com.cn:8888/rtp/239.3.1.105:8092
-#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="联通网络专用",CCTV-5
-http://bjyq-vnc-dns.mfsz.com.cn:8888/rtp/239.3.1.173:8001
-#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="联通网络专用",CCTV-5+
-http://bjyq-vnc-dns.mfsz.com.cn:8888/rtp/239.3.1.130:8004
 #EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="联通网络专用",CCTV-6
 http://bjyq-vnc-dns.mfsz.com.cn:8888/rtp/239.3.1.174:8001
-#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="联通网络专用",CCTV-7
-http://bjyq-vnc-dns.mfsz.com.cn:8888/rtp/239.3.1.61:8104
-#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" group-title="联通网络专用",CCTV-8
-http://bjyq-vnc-dns.mfsz.com.cn:8888/rtp/239.3.1.175:8001
-#EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" group-title="联通网络专用",CCTV-9
-http://bjyq-vnc-dns.mfsz.com.cn:8888/rtp/239.3.1.62:8112
-#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" group-title="联通网络专用",CCTV-10
-http://bjyq-vnc-dns.mfsz.com.cn:8888/rtp/239.3.1.63:8116
-#EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://epg.112114.xyz/logo/CCTV11.png" group-title="联通网络专用",CCTV-11
-http://bjyq-vnc-dns.mfsz.com.cn:8888/rtp/239.3.1.152:8120
-#EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png" group-title="联通网络专用",CCTV-12
-http://bjyq-vnc-dns.mfsz.com.cn:8888/rtp/239.3.1.64:8124
-#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="联通网络专用",CCTV-13
-http://bjyq-vnc-dns.mfsz.com.cn:8888/rtp/239.3.1.124:8128
-#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" group-title="联通网络专用",CCTV-14
-http://bjyq-vnc-dns.mfsz.com.cn:8888/rtp/239.3.1.65:8132
-#EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="联通网络专用",CCTV-15
-http://bjyq-vnc-dns.mfsz.com.cn:8888/rtp/239.3.1.153:8136
-#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="联通网络专用",CCTV-16 
-http://bjyq-vnc-dns.mfsz.com.cn:8888/rtp/239.3.1.184:8001
-#EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="联通网络专用",CCTV-17
-http://bjyq-vnc-dns.mfsz.com.cn:8888/rtp/239.3.1.151:8144
-#EXTINF:-1,tvg-id="CGTN 新闻" tvg-name="CGTN 新闻" tvg-logo="https://epg.112114.xyz/logo/CGTN新闻.png" group-title="联通网络专用",CGTN 新闻
-http://bjyq-vnc-dns.mfsz.com.cn:8888/rtp/239.3.1.215:4220
-#EXTINF:-1,tvg-id="CGTN 记录" tvg-name="CGTN 记录" tvg-logo="https://epg.112114.xyz/logo/CGTN记录.png" group-title="联通网络专用",CGTN 记录
-http://bjyq-vnc-dns.mfsz.com.cn:8888/rtp/239.3.1.216:4220
-#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="联通网络专用",北京卫视
-http://bjyq-vnc-dns.mfsz.com.cn:8888/rtp/239.3.1.241:8000
-#EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" group-title="联通网络专用",湖南卫视
-http://bjyq-vnc-dns.mfsz.com.cn:8888/rtp/239.3.1.132:8012
-#EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="联通网络专用",东方卫视
-http://bjyq-vnc-dns.mfsz.com.cn:8888/rtp/239.3.1.136:8032
-#EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png" group-title="联通网络专用",浙江卫视
-http://bjyq-vnc-dns.mfsz.com.cn:8888/rtp/239.3.1.137:8036
-#EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="联通网络专用",江苏卫视
-http://bjyq-vnc-dns.mfsz.com.cn:8888/rtp/239.3.1.135:8028
-#EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png" group-title="联通网络专用",深圳卫视
-http://bjyq-vnc-dns.mfsz.com.cn:8888/rtp/239.3.1.134:8020
-#EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="联通网络专用",广东卫视
-http://bjyq-vnc-dns.mfsz.com.cn:8888/rtp/239.3.1.142:8048
-#EXTINF:-1,tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://epg.112114.xyz/logo/安徽卫视.png" group-title="联通网络专用",安徽卫视
-http://bjyq-vnc-dns.mfsz.com.cn:8888/rtp/239.3.1.211:8064
-#EXTINF:-1,tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://epg.112114.xyz/logo/天津卫视.png" group-title="联通网络专用",天津卫视
-http://bjyq-vnc-dns.mfsz.com.cn:8888/rtp/239.3.1.141:1234
-#EXTINF:-1,tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://epg.112114.xyz/logo/重庆卫视.png" group-title="联通网络专用",重庆卫视
-http://bjyq-vnc-dns.mfsz.com.cn:8888/rtp/239.3.1.122:8160
-#EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg.112114.xyz/logo/山东卫视.png" group-title="联通网络专用",山东卫视
-http://bjyq-vnc-dns.mfsz.com.cn:8888/rtp/239.3.1.209:8052
-#EXTINF:-1,tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://epg.112114.xyz/logo/黑龙江卫视.png" group-title="联通网络专用",黑龙江卫视
-http://bjyq-vnc-dns.mfsz.com.cn:8888/rtp/239.3.1.133:8016
-#EXTINF:-1,tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://epg.112114.xyz/logo/河北卫视.png" group-title="联通网络专用",河北卫视
-http://bjyq-vnc-dns.mfsz.com.cn:8888/rtp/239.3.1.148:8072
-#EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://epg.112114.xyz/logo/辽宁卫视.png" group-title="联通网络专用",辽宁卫视
-http://bjyq-vnc-dns.mfsz.com.cn:8888/rtp/239.3.1.210:8056
-#EXTINF:-1,tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://epg.112114.xyz/logo/湖北卫视.png" group-title="联通网络专用",湖北卫视
-http://bjyq-vnc-dns.mfsz.com.cn:8888/rtp/239.3.1.138:8044
-#EXTINF:-1,tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://epg.112114.xyz/logo/吉林卫视.png" group-title="联通网络专用",吉林卫视
-http://bjyq-vnc-dns.mfsz.com.cn:8888/rtp/239.3.1.240:8172
-#EXTINF:-1,tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://epg.112114.xyz/logo/贵州卫视.png" group-title="联通网络专用",贵州卫视
-http://bjyq-vnc-dns.mfsz.com.cn:8888/rtp/239.3.1.149:8076
-#EXTINF:-1,tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://epg.112114.xyz/logo/东南卫视.png" group-title="联通网络专用",东南卫视
-http://bjyq-vnc-dns.mfsz.com.cn:8888/rtp/239.3.1.156:8148
-#EXTINF:-1,tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://epg.112114.xyz/logo/江西卫视.png" group-title="联通网络专用",江西卫视
-http://bjyq-vnc-dns.mfsz.com.cn:8888/rtp/239.3.1.123:8164
-#EXTINF:-1,tvg-id="BRTV新闻" tvg-name="BRTV新闻" tvg-logo="https://epg.112114.xyz/logo/BRTV新闻.png" group-title="联通网络专用",BRTV新闻
-http://bjyq-vnc-dns.mfsz.com.cn:8888/rtp/239.3.1.159:8000
-#EXTINF:-1,tvg-id="BRTV影视" tvg-name="BRTV影视" tvg-logo="https://epg.112114.xyz/logo/BRTV影视.png" group-title="联通网络专用",BRTV影视
-http://bjyq-vnc-dns.mfsz.com.cn:8888/rtp/239.3.1.158:8000
-#EXTINF:-1,tvg-id="BRTV文艺" tvg-name="BRTV文艺" tvg-logo="https://epg.112114.xyz/logo/BRTV文艺.png" group-title="联通网络专用",BRTV文艺
-http://bjyq-vnc-dns.mfsz.com.cn:8888/rtp/239.3.1.242:8000
-#EXTINF:-1,tvg-id="BRTV财经" tvg-name="BRTV财经" tvg-logo="https://epg.112114.xyz/logo/BRTV财经.png" group-title="联通网络专用",BRTV财经
-http://bjyq-vnc-dns.mfsz.com.cn:8888/rtp/239.3.1.116:8000
-#EXTINF:-1,tvg-id="BRTV生活" tvg-name="BRTV生活" tvg-logo="https://epg.112114.xyz/logo/BRTV生活.png" group-title="联通网络专用",BRTV生活
-http://bjyq-vnc-dns.mfsz.com.cn:8888/rtp/239.3.1.117:8000
-#EXTINF:-1,tvg-id="BRTV青年" tvg-name="BRTV青年" tvg-logo="https://epg.112114.xyz/logo/BRTV青年.png" group-title="联通网络专用",BRTV青年
-http://bjyq-vnc-dns.mfsz.com.cn:8888/# rtp/239.3.1.118:8000
-#EXTINF:-1,tvg-id="BRTV纪实科教" tvg-name="BRTV纪实科教" tvg-logo="https://epg.112114.xyz/logo/BRTV纪实科教.png" group-title="联通网络专用",BRTV纪实科教
-http://bjyq-vnc-dns.mfsz.com.cn:8888/rtp/239.3.1.115:8000
-#EXTINF:-1,tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://epg.112114.xyz/logo/卡酷少儿.png" group-title="联通网络专用",BRTV卡酷少儿
-http://bjyq-vnc-dns.mfsz.com.cn:8888/rtp/239.3.1.189:8000
-#EXTINF:-1,tvg-id="冬奥纪实" tvg-name="冬奥纪实" tvg-logo="https://epg.112114.xyz/logo/冬奥纪实.png" group-title="联通网络专用",BRTV冬奥纪实
-http://bjyq-vnc-dns.mfsz.com.cn:8888/# rtp/239.3.1.243:8000
-#EXTINF:-1,tvg-id="冬奥纪实" tvg-name="冬奥纪实" tvg-logo="https://epg.112114.xyz/logo/冬奥纪实.png" group-title="联通网络专用",BRTV冬奥纪实
-http://bjyq-vnc-dns.mfsz.com.cn:8888/# rtp/239.3.1.121:8000
-#EXTINF:-1,tvg-id="BRTV体育休闲" tvg-name="BRTV体育休闲" tvg-logo="https://epg.112114.xyz/logo/BRTV体育休闲.png" group-title="联通网络专用",BRTV体育休闲
-http://bjyq-vnc-dns.mfsz.com.cn:8888/rtp/239.3.1.243:8000
-#EXTINF:-1,tvg-id="BRTV国际频道" tvg-name="BRTV国际频道" tvg-logo="https://epg.112114.xyz/logo/BRTV国际.png" group-title="联通网络专用",BRTV国际频道
-http://bjyq-vnc-dns.mfsz.com.cn:8888/rtp/239.3.1.235:8000
+
+#EXTINF:-1 channel-id="KR2000007LI-kr" tvg-id="KR2000007LI" tvg-chno="651" tvg-name="가우스전자" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR2000007LI_20260422T013956SQUARE.png" group-title="韩国频道",가우스전자
+https://jmp2.uk/stvp-KR2000007LI
+#EXTINF:-1 channel-id="KRBC3500014ZH-kr" tvg-id="KRBC3500014ZH" tvg-chno="624" tvg-name="고독한 미식가" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500014ZH_20260422T013958SQUARE.png" group-title="韩国频道",고독한 미식가
+https://jmp2.uk/stvp-KRBC3500014ZH
+#EXTINF:-1 channel-id="KR2000004DJ-kr" tvg-id="KR2000004DJ" tvg-chno="654" tvg-name="구필수는 없다" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR2000004DJ_20260422T014001SQUARE.png" group-title="韩国频道",구필수는 없다
+https://jmp2.uk/stvp-KR2000004DJ
+#EXTINF:-1 channel-id="KRBD3100006X4-kr" tvg-id="KRBD3100006X4" tvg-chno="795" tvg-name="글로벌 뉴스 by LeadStory" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD3100006X4_20260422T014004SQUARE.png" group-title="韩国频道",글로벌 뉴스 by LeadStory
+https://jmp2.uk/stvp-KRBD3100006X4
+#EXTINF:-1 channel-id="KRBB4200009C3-kr" tvg-id="KRBB4200009C3" tvg-chno="569" tvg-name="나는 솔로" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200009C3_20260422T014008SQUARE.png" group-title="韩国频道",나는 솔로
+https://jmp2.uk/stvp-KRBB4200009C3
+#EXTINF:-1 channel-id="KR2000011GA-kr" tvg-id="KR2000011GA" tvg-chno="656" tvg-name="나미브" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR2000011GA_20260422T014011SQUARE.png" group-title="韩国频道",나미브
+https://jmp2.uk/stvp-KR2000011GA
+#EXTINF:-1 channel-id="KR2000010K7-kr" tvg-id="KR2000010K7" tvg-chno="634" tvg-name="나의 해리에게" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR2000010K7_20260422T014014SQUARE.png" group-title="韩国频道",나의 해리에게
+https://jmp2.uk/stvp-KR2000010K7
+#EXTINF:-1 channel-id="KR2000009EC-kr" tvg-id="KR2000009EC" tvg-chno="658" tvg-name="낮에 뜨는 달" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR2000009EC_20260422T012425SQUARE.png" group-title="韩国频道",낮에 뜨는 달
+https://jmp2.uk/stvp-KR2000009EC
+#EXTINF:-1 channel-id="KR36000040X-kr" tvg-id="KR36000040X" tvg-chno="609" tvg-name="더라이프2" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR36000040X_20260224T012110SQUARE.png" group-title="韩国频道",더라이프2
+https://jmp2.uk/stvp-KR36000040X
+#EXTINF:-1 channel-id="KR2000003T6-kr" tvg-id="KR2000003T6" tvg-chno="659" tvg-name="라이딩 인생" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR2000003T6_20260422T012421SQUARE.png" group-title="韩国频道",라이딩 인생
+https://jmp2.uk/stvp-KR2000003T6
+#EXTINF:-1 channel-id="KRBC3500013VH-kr" tvg-id="KRBC3500013VH" tvg-chno="709" tvg-name="로보카폴리 TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500013VH_20260422T014017SQUARE.png" group-title="韩国频道",로보카폴리 TV
+https://jmp2.uk/stvp-KRBC3500013VH
+#EXTINF:-1 channel-id="KR2000006NC-kr" tvg-id="KR2000006NC" tvg-chno="650" tvg-name="마당이 있는 집" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR2000006NC_20260422T014020SQUARE.png" group-title="韩国频道",마당이 있는 집
+https://jmp2.uk/stvp-KR2000006NC
+#EXTINF:-1 channel-id="KRBC3200007D1-kr" tvg-id="KRBC3200007D1" tvg-chno="553" tvg-name="맛있는 녀석들" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200007D1_20260422T014023SQUARE.png" group-title="韩国频道",맛있는 녀석들
+https://jmp2.uk/stvp-KRBC3200007D1
+#EXTINF:-1 channel-id="KR3500001UU-kr" tvg-id="KR3500001UU" tvg-chno="675" tvg-name="매일경제TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR3500001UU_20251029T014754SQUARE.png" group-title="韩国频道",매일경제TV
+https://jmp2.uk/stvp-KR3500001UU
+#EXTINF:-1 channel-id="KR2900001RN-kr" tvg-id="KR2900001RN" tvg-chno="599" tvg-name="바오패밀리" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR2900001RN_20260422T014025SQUARE.png" group-title="韩国频道",바오패밀리
+https://jmp2.uk/stvp-KR2900001RN
+#EXTINF:-1 channel-id="KRBC3500020AF-kr" tvg-id="KRBC3500020AF" tvg-chno="702" tvg-name="베베핀" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500020AF_20260422T014028SQUARE.png" group-title="韩国频道",베베핀
+https://jmp2.uk/stvp-KRBC3500020AF
+#EXTINF:-1 channel-id="KR1800002Q7-kr" tvg-id="KR1800002Q7" tvg-chno="592" tvg-name="비보티비" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR1800002Q7_20260422T014030SQUARE.png" group-title="韩国频道",비보티비
+https://jmp2.uk/stvp-KR1800002Q7
+#EXTINF:-1 channel-id="KR140000508-kr" tvg-id="KR140000508" tvg-chno="547" tvg-name="빠니보틀" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR140000508_20260422T014034SQUARE.png" group-title="韩国频道",빠니보틀
+https://jmp2.uk/stvp-KR140000508
+#EXTINF:-1 channel-id="KR900001U5-kr" tvg-id="KR900001U5" tvg-chno="710" tvg-name="뽀요TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR900001U5_20260422T014036SQUARE.png" group-title="韩国频道",뽀요TV
+https://jmp2.uk/stvp-KR900001U5
+#EXTINF:-1 channel-id="KR4100001LW-kr" tvg-id="KR4100001LW" tvg-chno="603" tvg-name="살롱드립" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR4100001LW_20260422T014039SQUARE.png" group-title="韩国频道",살롱드립
+https://jmp2.uk/stvp-KR4100001LW
+#EXTINF:-1 channel-id="KR7000044K-kr" tvg-id="KR7000044K" tvg-chno="672" tvg-name="서울경제TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR7000044K_20260422T014043SQUARE.png" group-title="韩国频道",서울경제TV
+https://jmp2.uk/stvp-KR7000044K
+#EXTINF:-1 channel-id="KR44000010Y-kr" tvg-id="KR44000010Y" tvg-chno="822" tvg-name="스크린골프존" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR44000010Y_20260422T014046SQUARE.png" group-title="韩国频道",스크린골프존
+https://jmp2.uk/stvp-KR44000010Y
+#EXTINF:-1 channel-id="KRBD26000011V-kr" tvg-id="KRBD26000011V" tvg-chno="745" tvg-name="씨네21+" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD26000011V_20260422T014048SQUARE.png" group-title="韩国频道",씨네21+
+https://jmp2.uk/stvp-KRBD26000011V
+#EXTINF:-1 channel-id="KR3600006FN-kr" tvg-id="KR3600006FN" tvg-chno="690" tvg-name="아리랑TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR3600006FN_20251106T195327SQUARE.png" group-title="韩国频道",아리랑TV
+https://jmp2.uk/stvp-KR3600006FN
+#EXTINF:-1 channel-id="KR2000008LX-kr" tvg-id="KR2000008LX" tvg-chno="643" tvg-name="야한 사진관" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR2000008LX_20260422T014051SQUARE.png" group-title="韩国频道",야한 사진관
+https://jmp2.uk/stvp-KR2000008LX
+#EXTINF:-1 channel-id="KRBD1400001ED-kr" tvg-id="KRBD1400001ED" tvg-chno="502" tvg-name="연합뉴스TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD1400001ED_20260422T014054SQUARE.png" group-title="韩国频道",연합뉴스TV
+https://jmp2.uk/stvp-KRBD1400001ED
+#EXTINF:-1 channel-id="KR2200005YM-kr" tvg-id="KR2200005YM" tvg-chno="674" tvg-name="연합뉴스경제TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR2200005YM_20260422T012601SQUARE.png" group-title="韩国频道",연합뉴스경제TV
+https://jmp2.uk/stvp-KR2200005YM
+#EXTINF:-1 channel-id="KR39000030H-kr" tvg-id="KR39000030H" tvg-chno="819" tvg-name="요가소년" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR39000030H_20260422T012431SQUARE.png" group-title="韩国频道",요가소년
+https://jmp2.uk/stvp-KR39000030H
+#EXTINF:-1 channel-id="KRBC3500015BN-kr" tvg-id="KRBC3500015BN" tvg-chno="563" tvg-name="용감한 형사들" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500015BN_20260422T014057SQUARE.png" group-title="韩国频道",용감한 형사들
+https://jmp2.uk/stvp-KRBC3500015BN
+#EXTINF:-1 channel-id="KRBD2200001QD-kr" tvg-id="KRBD2200001QD" tvg-chno="761" tvg-name="우리의식탁" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD2200001QD_20260422T014100SQUARE.png" group-title="韩国频道",우리의식탁
+https://jmp2.uk/stvp-KRBD2200001QD
+#EXTINF:-1 channel-id="KR1400009B8-kr" tvg-id="KR1400009B8" tvg-chno="504" tvg-name="유병재" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR1400009B8_20260506T053714SQUARE.png" group-title="韩国频道",유병재
+https://jmp2.uk/stvp-KR1400009B8
+#EXTINF:-1 channel-id="KR400049VH-kr" tvg-id="KR400049VH" tvg-chno="516" tvg-name="지구마불 세계여행" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR400049VH_20260506T053718SQUARE.png" group-title="韩国频道",지구마불 세계여행
+https://jmp2.uk/stvp-KR400049VH
+#EXTINF:-1 channel-id="KR5000002QW-kr" tvg-id="KR5000002QW" tvg-chno="519" tvg-name="쯔양" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR5000002QW_20260506T053721SQUARE.png" group-title="韩国频道",쯔양
+https://jmp2.uk/stvp-KR5000002QW
+#EXTINF:-1 channel-id="KRBC4100001LY-kr" tvg-id="KRBC4100001LY" tvg-chno="558" tvg-name="채널A 나만 믿고 따라와 도시어부" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4100001LY_20260422T014103SQUARE.png" group-title="韩国频道",채널A 나만 믿고 따라와 도시어부
+https://jmp2.uk/stvp-KRBC4100001LY
+#EXTINF:-1 channel-id="KRBC4100005N5-kr" tvg-id="KRBC4100005N5" tvg-chno="597" tvg-name="채널A 이제 만나러 갑니다" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4100005N5_20260422T014105SQUARE.png" group-title="韩国频道",채널A 이제 만나러 갑니다
+https://jmp2.uk/stvp-KRBC4100005N5
+#EXTINF:-1 channel-id="KRBB5000364M-kr" tvg-id="KRBB5000364M" tvg-chno="815" tvg-name="초록뱀미디어 K-STAR 골프" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB5000364M_20260422T014108SQUARE.png" group-title="韩国频道",초록뱀미디어 K-STAR 골프
+https://jmp2.uk/stvp-KRBB5000364M
+#EXTINF:-1 channel-id="KR2200004C1-kr" tvg-id="KR2200004C1" tvg-chno="704" tvg-name="캐리TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR2200004C1_20260422T012559SQUARE.png" group-title="韩国频道",캐리TV
+https://jmp2.uk/stvp-KR2200004C1
+#EXTINF:-1 channel-id="KR3200003RR-kr" tvg-id="KR3200003RR" tvg-chno="798" tvg-name="코난 오브라이언 쇼" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR3200003RR_20260422T014111SQUARE.png" group-title="韩国频道",코난 오브라이언 쇼
+https://jmp2.uk/stvp-KR3200003RR
+#EXTINF:-1 channel-id="KRBB500035VF-kr" tvg-id="KRBB500035VF" tvg-chno="711" tvg-name="코코비TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB500035VF_20260422T014114SQUARE.png" group-title="韩国频道",코코비TV
+https://jmp2.uk/stvp-KRBB500035VF
+#EXTINF:-1 channel-id="KRBC32000200B-kr" tvg-id="KRBC32000200B" tvg-chno="703" tvg-name="투니버스 명탐정 코난 (자막)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC32000200B_20260422T014116SQUARE.png" group-title="韩国频道",투니버스 명탐정 코난 (자막)
+https://jmp2.uk/stvp-KRBC32000200B
+#EXTINF:-1 channel-id="KR10000017U-kr" tvg-id="KR10000017U" tvg-chno="701" tvg-name="투니버스 짱구는 못말려" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR10000017U_20260422T014119SQUARE.png" group-title="韩国频道",투니버스 짱구는 못말려
+https://jmp2.uk/stvp-KR10000017U
+#EXTINF:-1 channel-id="KRBC3200017JQ-kr" tvg-id="KRBC3200017JQ" tvg-chno="706" tvg-name="투니버스 흔한남매의 안흔한일기" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200017JQ_20260422T014121SQUARE.png" group-title="韩国频道",투니버스 흔한남매의 안흔한일기
+https://jmp2.uk/stvp-KRBC3200017JQ
+#EXTINF:-1 channel-id="KR3600003JU-kr" tvg-id="KR3600003JU" tvg-chno="676" tvg-name="한국경제TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR3600003JU_20251029T003224SQUARE.png" group-title="韩国频道",한국경제TV
+https://jmp2.uk/stvp-KR3600003JU
+#EXTINF:-1 channel-id="KR480000234-kr" tvg-id="KR480000234" tvg-chno="600" tvg-name="할명수" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR480000234_20260422T014124SQUARE.png" group-title="韩国频道",할명수
+https://jmp2.uk/stvp-KR480000234
+#EXTINF:-1 channel-id="KR200000503-kr" tvg-id="KR200000503" tvg-chno="638" tvg-name="행복배틀" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR200000503_20260422T014126SQUARE.png" group-title="韩国频道",행복배틀
+https://jmp2.uk/stvp-KR200000503
+#EXTINF:-1 channel-id="KRAH1801500A-kr" tvg-id="KRAH1801500A" tvg-chno="763" tvg-name="현대홈쇼핑" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRAH1801500A_20260422T013224SQUARE.png" group-title="韩国频道",현대홈쇼핑
+https://jmp2.uk/stvp-KRAH1801500A
+#EXTINF:-1 channel-id="KRAH4602000A-kr" tvg-id="KRAH4602000A" tvg-chno="764" tvg-name="현대홈쇼핑+Shop" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRAH4602000A_20260422T013227SQUARE.png" group-title="韩国频道",현대홈쇼핑+Shop
+https://jmp2.uk/stvp-KRAH4602000A
+#EXTINF:-1 channel-id="KR260000274-kr" tvg-id="KR260000274" tvg-chno="820" tvg-name="힙으뜸" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR260000274_20260422T014129SQUARE.png" group-title="韩国频道",힙으뜸
+https://jmp2.uk/stvp-KR260000274
+
+
+
+#EXTINF:-1,tvg-id="KBS KOREA" tvg-name="KBS KOREA" tvg-logo="https://epg.112114.xyz/logo/KBSKOREA.png" group-title="韩国频道",KBS KOREA
+https://wms001-kortv.akamaized.net/a_live/86648525/ch102.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,tvg-id="SBS KPOP HD" tvg-name="SBS KPOP HD" tvg-logo="https://epg.112114.xyz/logo/SBSKPOP.png" group-title="韩国频道",SBS KPOP HD
+https://tvlive.sbs.co.kr/sbskpop/sbskpop0.stream/chunklist.m3u
+#EXTINF:-1,tvg-id="SBS HD" tvg-name="SBS HD" tvg-logo="https://epg.112114.xyz/logo/SBS.png" group-title="韩国频道",SBS HD
+https://tvlive.sbs.co.kr/sbsch6/sbsch60.stream/chunklist.m3u
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",Arirang 阿里郎
+http://amdlive-ch01.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",KBS 1
+https://tv.iill.top/kbs/11&p=0
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",KBS 2
+https://tv.iill.top/kbs/12&p=0
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",BBS 불교 방송
+http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist.m3u8
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",CJ OnStyle
+https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",CJ OnStyle Plus
+https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",EBS+ 1
+http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",EBS+ 2
+http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",EBS 1
+http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8?zshijd
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",EBS 2
+http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8?zshijd
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",EBS 키즈
+http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8?zshijd
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",GS Shop
+https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",Gugak TV
+http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",KBS Drama
+http://mytv.dothome.co.kr/ch/catv/2.php
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",KBS Joy
+http://mytv.dothome.co.kr/ch/catv/3.php
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",KBS Kids
+http://mytv.dothome.co.kr/ch/catv/6.php
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",KBS LIFE
+http://mytv.dothome.co.kr/ch/catv/5.php
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",KBS LiveCam DokDo
+http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",KBS Story
+http://mytv.dothome.co.kr/ch/catv/4.php
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",Korea TV
+https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",MBC
+http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",NBS
+https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",SBS
+http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",TBS Seoul
+https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",국방国防TV
+http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",TV조선
+http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",TV조선 2
+http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",Korea TV
+https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",MBC 综艺频道
+http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",NBS 农业广播
+https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",SBS 清州放送
+http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",TBS Seoul
+https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",MBC
+http://mytv.dothome.co.kr/ch/public/5.php
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",MBC-목포
+http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",MBC-춘천
+https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",MBC-대구
+https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",MBC-제주
+https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",MBC-여수
+https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",ABN TV (720p)
+https://vod2.abn.co.kr/IPHONE/abn.m3u8
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",Arirang Radio (720p)
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",BBS Buddhist Broadcasting (1080p)
+http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",CGNTV South Korea (1080p)
+https://du35ivadp6cxj.cloudfront.net/out/v1/81781d23cbbf490990b2aa9181d4ce19/CGNWebLiveKR.m3u8
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",CJ OnStyle (540p)
+https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",EWTN Asia-Pacific (720p) [Not 24/7]
+https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",GCN24 Korean (720p)
+http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_1300k.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",GoodTV (1080p)
+http://mobliestream.c3tv.com:1935/live/goodtv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",Gugbang TV (1080p) [Not 24/7]
+http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",Home & Shopping (720p)
+https://s28.qtcdn.co.kr/media/liveM3U8/idx/518045142/enc/1860408350/playlist.m3u8
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",KBS 1TV [Not 24/7]
+http://mytv.dothome.co.kr/ch/public/1.php
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",KBS 2TV [Not 24/7]
+http://mytv.dothome.co.kr/ch/public/3.php
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",KBS Drama (480p)
+http://mytv.dothome.co.kr/ch/catv/2.php
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",KBS Life (480p)
+http://mytv.dothome.co.kr/ch/catv/5.php
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",KBS LiveCam DokDo (540p)
+http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",KCTV 광주 CH05 (720p) [Not 24/7]
+http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",MBC Andong (안동 MBC) (360p) [Not 24/7]
+http://andong.webcasting.co.kr/live/mbc/playlist.m3u8
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",MBC Chuncheon (춘천 MBC) (480p) [Not 24/7]
+https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",MBC Jeju (제주 MBC) (352p) [Not 24/7]
+https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",MBC Mokpo (목포 MBC) (720p) [Not 24/7]
+http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",MBC Yeosu (여수 MBC) (1080p) [Not 24/7]
+https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",NHTV (720p)
+http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",RUTC TV (720p)
+http://d26sxnc75smwvh.cloudfront.net/livehttporigin/rutclive_720p2.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",SBS CJB (540p) [Not 24/7]
+http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",SBS G1 (360p) [Not 24/7]
+http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",SBS JIBS (720p) [Not 24/7]
+http://123.140.197.22/stream/1/play.m3u8
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",SBS JTV (406p) [Not 24/7]
+http://61.85.197.53:1935/jtv_live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",Shinsegae Shopping TV (720p)
+https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p/playlist.m3u8
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",Shopping NT (720p)
+https://live.shoppingntmall.com/live/10011.m3u8
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",W Shopping (720p)
+https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",BBS
+http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1216149699.m3u8
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",EBS1
+http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",EBS2
+http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",EBSe
+http://ebsonairios.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",EBS1
+http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",EBS2
+http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",EBS1
+http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",EBS1
+http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",EBSi
+http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",EBS+2
+http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",EBSe
+http://ebsonairios.ebs.co.kr/plus3tablet500k/tablet500k/plus3tablet500k.index.m3u8
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",KCTV
+http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",Arirang
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",tvN1
+https://d2zyqoz1zsj2mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i9yul1lyegl6e-ssai-prd/6d07fe2a_003a_4879_acfc_44e3c3c10f03/hls/playlist.m3u8?
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",tvN2
+https://d21dxaer0ypwk1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6m2cy2rylsvo-ssai-prd/54ac8e25_eb5a_4f10_ba20_ffb254f0a16c/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC32000261J
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",tvN3
+https://d25mdvvpht3395.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p8ea370fl7r4f-ssai-prd/82f296fd_2916_45b7_b799_525a4226957a/hls/playlist.m3u8?
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",tvN5
+https://d2zyqoz1zsj2mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i9yul1lyegl6e-ssai-prd/6d07fe2a_003a_4879_acfc_44e3c3c10f03/hls/playlist.m3u8?
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",KBS世界
+https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",Arirang
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",Arirang
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",EBS 2
+http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8?
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",JTV
+http://61.85.197.53:1935/jtv_live/myStream/chunklist_w1542137203.m3u8
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",KCTV
+http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",C
+http://112.175.51.214:1935/live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",TV1
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",TV3
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=630
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",TV4
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=644
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",14
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=14
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",EBS少儿
+http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",韩国EBS1
+http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8?zshijd
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",韩国EBS2
+http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8?zshijd
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",Arirang
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist.m3u8
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",KCTV
+http://119.77.96.184:1935/chn05/chn05/chunklist.m3u
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",声优广播
+http://www.uniqueradio.jp/agplayerf/hls/Active.m3u8
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",KCTV
+http://119.77.96.184:1935/chn05/chn05/chunklist.m3u8
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",CJB
+http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",Arirang
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch/master.m3u8
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",BBS佛教广播
+http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1403706733.m3u8
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",Arirang
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",HBTV
+http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/chunklist.m3u8
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",ANTV
+http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",Arirang Radio
+http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",BTN
+http://btn.nowcdn.co.kr/btn/btnlive01/playlist.m3u8
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",CPBC
+http://onair1.cpbc.co.kr:1935/tv/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",EBS-KIDS
+http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/playlist.m3u8
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",GCN教会
+http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_high/chunklist.m3u8
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",MBN
+http://mytv.dothome.co.kr/ch/catv/54.php
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",NewKID2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=878
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",NewKID4
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=888
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",NewKID4
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=872
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",韩国音乐
+http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="订阅" tvg-logo="https://chuxinya.top/f/NLv7cj/KR.png" group-title="韩国频道",频道呼吸
+http://5ddfc48289114.streamlock.net/CHsoom/LIVE/playist.m3u8
