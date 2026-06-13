@@ -17,10 +17,7 @@ https://kbsnw.gscdn.kbs.co.kr/kbsnw-02/kbsnw-02_sd.m3u8?Policy=eyJTdGF0ZW1lbnQiO
 #EXTINF:-1 group-title="韩国",KBS-World
 https://world.gscdn.kbs.co.kr/world-02/world-02_sd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly93b3JsZC5nc2Nkbi5rYnMuY28ua3Ivd29ybGQtMDIvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4MTI0NTI0MH19fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=ZcJOCQ0PAajkNqQqePkbwV3NI-NhyuptpkSHuLr-ULQuhQq8me~3FLrCCtJd~Zi3-E8qkiTdVfvUBPIigAE7LCNvRlvXhGxAKWjs8Gult8iE3Rq7OppiiqwMPtNbWmOHDF~~XBqCvPL~1LOAwRpYDwpZvsps0KHhPdwF1Tk8pMgu1CYKawhSrvvwQMuNbRj037-vbaH-RMRYUYv~hT3UTqAn8WvkD4OAD4NMGYfrmgWCJ2Wxhfg80iywPlIafQn-uVPZ4mxztVLB3HEDLf-yEc6g4Mv9hg2hZsh2Y38TVBHdVtIPOHzbnV1H8AL240jDmY1K5NgjIsJMczGtfKHiXw__
 
-#EXTINF:-1 tvg-name="APTV" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="韩国频道",💎以下频道需要魔法💎
-https://cccimg.com/down.php/9aa51c2f3ca945aefb295386d3a55f05.mp4
-#EXTINF:-1 tvg-name="APTV" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="韩国频道",💎以下频道需要魔法💎
-https://cccimg.com/down.php/9aa51c2f3ca945aefb295386d3a55f05.mp4
+
 #EXTINF:-1 channel-id="KR2000007LI-kr" tvg-id="KR2000007LI" tvg-chno="651" tvg-name="가우스전자" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR2000007LI_20260422T013956SQUARE.png" group-title="韩国频道",가우스전자
 https://jmp2.uk/stvp-KR2000007LI
 #EXTINF:-1 channel-id="KRBC3500014ZH-kr" tvg-id="KRBC3500014ZH" tvg-chno="624" tvg-name="고독한 미식가" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500014ZH_20260422T013958SQUARE.png" group-title="韩国频道",고독한 미식가
